@@ -2,7 +2,9 @@
 A detailed analysis on mosquitoes population and how they are affected by various parameters.
 
 I have uploaded the dataset from kaggle. You can access it from here https://www.kaggle.com/krishnasrujan/west-nile-mosquitoes
-
+If the notebook is unable to to viewed , you can view it here
+1)  https://nbviewer.jupyter.org/github/krishnasrujan/West-Nile-Causal-Analysis/blob/master/West%20Nile%20Mosquito.ipynb
+2)  https://www.kaggle.com/krishnasrujan/west-nile-virus-causal-analysis
 # Dataset description:
 Main dataset
 
